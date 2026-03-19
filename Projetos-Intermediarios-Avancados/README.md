@@ -3,21 +3,15 @@
 
 ## Imagens do sistema
 
-### Cadastro de cargos
 
+### Cadastro de cargos
 ![Cadastro de cargos](imagens/01-cadastro-cargos.jpeg)
 
-
 ### Cadastro de funcionários
-
 ![Cadastro de funcionários](imagens/02-cadastro-funcionarios.jpeg)
 
-
-### Folha de pagamento
-
+### Folha de pagamento gerada
 ![Folha de pagamento](imagens/03-folha-pagamento-gerada.jpeg)
 
-
-### Relatório gerado
-
-![Relatório](imagens/04-relatorio-sistema-jpeg)
+### Relatório do sistema
+![Relatório](imagens/04-relatorio-sistema.jpeg)
