@@ -21,13 +21,13 @@ O sistema permite cadastrar cargos, cadastrar funcionários, calcular salários 
 ## Imagens do sistema
 
 ### Cadastro de cargos
-![Cadastro de cargos](imagens/01-cadastro-cargos.png)
+![Cadastro de cargos](imagens/01_cadastro_cargos.png)
 
 ### Cadastro de funcionários
-![Cadastro de funcionários](imagens/02-cadastro-funcionarios.png)
+![Cadastro de funcionários](imagens/02_cadastro_funcionarios.png)
 
 ### Folha de pagamento gerada
-![Folha de pagamento](imagens/03-folha-pagamento.png)
+![Folha de pagamento](imagens/03_folha_pagamento_gerada.png)
 
 ### Relatório do sistema
-![Relatório](imagens/04-relatorio.png)
+![Relatório](imagens/04_relatorio_sistema.png)
